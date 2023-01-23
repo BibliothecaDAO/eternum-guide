@@ -172,7 +172,7 @@ const config: DocsThemeConfig = {
       <>
         <meta
           property="og:url"
-          content={`https://scroll.bibliothecadao.com${asPath}`}
+          content={`https://guide.bibliothecadao.com${asPath}`}
         />
         <meta
           property="og:title"
@@ -180,7 +180,7 @@ const config: DocsThemeConfig = {
         />
         <meta
           property="og:description"
-          content={frontMatter.description || "Biblioheca DAO Master Scroll"}
+          content={frontMatter.description || "Eternum Guide"}
         />
       </>
     );
