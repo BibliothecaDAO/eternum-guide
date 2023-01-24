@@ -1,9 +1,9 @@
 # Resource Emporium (AMM)
 
-1. [Selling on the AMM](./amm.md#Selling-on-the-AMM)
-2. [Buying on the AMM](./amm.md#Buying-on-the-AMM)
-3. [Adding Liquidity to the AMM](./amm.md#Adding-Liquidity-to-the-AMM)
-4. [Removing Liquidity from the AMM](./amm.md#Removing-Liquidity-from-the-AMM)
+1. [Selling on the AMM](./amm#Selling-on-the-AMM)
+2. [Buying on the AMM](./amm#Buying-on-the-AMM)
+3. [Adding Liquidity to the AMM](./amm#Adding-Liquidity-to-the-AMM)
+4. [Removing Liquidity from the AMM](./amm#Removing-Liquidity-from-the-AMM)
 
 
 Click the 'Bank' button in the menu on the left side of the screen. A new screen appears with the resource markets shown in the right panel, and your orders on the left. Notice the 'Swap' button is highlighted indicating you want to trade resources, and the toggle switch is set to Sell indicating you want to sell your resources for $LORDS.
