@@ -191,7 +191,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: "https://discord.gg/uQnjZhZPfu",
   },
-  docsRepositoryBase: "https://github.com/BibliothecaDAO/master-scroll",
+  docsRepositoryBase: "https://github.com/BibliothecaDAO/eternum-guide",
   faviconGlyph: "📖",
   footer: {
     text: (
