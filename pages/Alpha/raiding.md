@@ -1,65 +1,51 @@
 # Raiding
 
 #### Chosing a Realm to Raid
+
+1. You can find a realm to raid by searching for it. You can find realms based on specific resources, order, rarity etc. The default filters are settled and raidable. Click on the realms tab, then all realms, and then choose filters of your choice and scroll through your selections.
+
+![raiding-search](static/img/alpha/raiding-search.jpg)
+
+As you are searching for realms to raid you can see 3 useful pieces of information and take 2 actions.
+
+a) Resources in vault.
+b) Defending army strength. (Hover your cursor over the shield icon)
+c) Whether they own their relic (Self Sovereign) or they have already lost it (Annexed)
+
+You can also click 'Travel to Raid' which will bring up a menu that allows you to send your armies to that realm or 'Fly' which will center your screen on that realm in the atlas.
+
+![raiding-info-actions](static/img/alpha/raiding-info-actions.jpg)
+
+2. You can also find a realm to raid by going to your empire page and looking to see if anyone has attacked you for resources or taken your relic recently. You can also see if previous attacks of yours failed and raid the realm again to complete the job.
+
+![raiding-counterattacks](static/img/alpha/raiding-counterattacks.jpg)
+
+There are filters at the top of this realms page to help you sort through the vizir reports.
+
+![raiding-vizir-reports](static/img/alpha/raiding-vizir-reports.png)
+
 #### Traveling
+
+1. Once you have chosen a realm to raid click 'Travel to Raid' to bring up your army selection screen.
+
+![raiding-travel-to-raid](static/img/alpha/raiding-travel-to-raid.jpg)
+
+2. On this screen you will see several useful pieces of information. Realm name, army relative strength (Weak, Strong, V. Strong), army exact strength if you hover your mouse over the shield and the length of time it takes for your army to travel to the selected realm. Pick your army that best matches up against the enemy army and click 'Travel'. This will queue a tx in the cart which you can sign to put your army in motion. You can also choose to send multiple armies to the destination realm at once. Click 'Travel' for all armies you want to send and then sign one signature for the batch of txs.
+
+![raiding-travel-army](static/img/alpha/raiding-travel-army.jpg)
+
 #### Raiding
 
----
+1. When your army arrives at the destination realm you will see a button that says 'Raidable'. This button can depend on factors that may not always be obvious e.g. the realm must have a minimum of 25 resources before it can be raided. These things are bound to change as the game progresses. 
 
-# Raiding
+![raiding-raidable](static/img/alpha/raiding-raidable.jpg)
 
-:::note
-Prerequisites: 
-1. [Setup a StarkNet Wallet](./wallet.md)
-2. [Get Goerli test ETH](eth.md)
-3. [Settle your Realm(s)](./settle.md)
-4. [Muster an attacking army](./raid.md)
-:::
+2. If you can't remember where you've sent your armies to you can click on the 'Empire' page and sort by 'Army Travel' to see the last locations you've sent armies to and the estimated time of arrival.
 
-## Traveling an army to attack
+![raiding-army-travel](static/img/alpha/raiding-army-travel.jpg)
 
-1. Head to the ‘Realms’ page
+3. When you click the 'Raidable' button you will go to the battle screen. If you have multiple armies stationed at this realm you can select which army you want to use with the drop down menu in the bottom left beneath your army stats. Each realm has a cooldown before it can be raided again so choose wisely. Click 'Plunder!' and then sign the tx that appears in your tx cart to begin the battle.
 
-2. Use the filters to select your target for the raid 
-- Settled (preselected)
-- Raidable (preselected)
-- Resources: filter for your desired resources
+![raiding-plunder](static/img/alpha/raiding-plunder.jpg)
 
-![Filter Realms to raid](static/img/alpha/filter-resources.jpg)
-
-3. Click 'Raidable' on the Realm you decide to target
-
-![Select target Realm](static/img/alpha/raidable.jpg)
-
-4. Choose which of your attacking armies you would like to send here and click 'Travel Here - x Hrs'
-
-![Travel your army](static/img/alpha/travel-here.jpg)
-
-5. Navigate to your tx cart, sign the tx and approve it in your StarkNet wallet
-
-:::note
-Once the displayed time of travel has passed the army will arrive at the target Realm ready to attack on your command
-:::
-
-## Attacking/raiding a Realm
-
-1. Once you have completed the above steps and your army has arrived at the target Realm, navigate to your 'Empire' page
-
-6. Navigate to the 'My Armies' tab
-
-![Armies tab](static/img/alpha/my-armies.jpg)
-
-7. Choose the Army you are wanting to raid with and click the 'Fly Current Location - x' button to take you to the target Realm
-
-![Go to the target Realm](static/img/alpha/location.jpg)
-
-8. Click 'Raidable' on the target Realm
-
-9. Select 'Plunder', approve the tx in your StarkNet wallet to initiate the raid and watch the series of battle images while until it's accepted by StarkNet
-
-![Plunder the target Realm](static/img/alpha/plunder.jpg)
-
-10. View the results of raid: the number of troops slayed, and the resources/relics you won (if you succeeded)
-
-![Raid results](static/img/alpha/raid-result.jpg)
-
+4. Wait to view the results of the attack.
