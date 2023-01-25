@@ -1,14 +1,13 @@
 # Armies
 
-:::note
-Prerequisites: 
-1. [Setup a StarkNet Wallet](./wallet.md)
-2. [Get Goerli test ETH](eth.md)
-3. [Settle your Realm(s)](./settle.md)
-4. [Harvest Resources](./manage.md), [buy resources](./amm.md) or [pillage resources](./raid.md)
-:::
+1. [Military Buildings](./amm#Military-Buildings)
+2. [Train Defensive Armies](./amm#Train-Defensive-Armies)
+3. [Train Offensive Armies](./amm#Train-Offensive-Armies)
 
-## Military buildings
+There are two types of army: Defensive and Offensive. Each realm can build a single Defensive army, which is used to protect the realm against enemy raids. If your realm is raided there is a cooldown period before it can be raided again. This gives you time to rebuild your Defensive army if it has been damaged. Defensive armies cannot travel or raid. Each realm can build multiple Offensive armies, which are used to raid enemy realms for relics and resources. Note that Offensive armies cannot attack realms of their own Order.
+
+
+## Military Buildings
 
 1. Head to the ‘Realms’ page
 
@@ -16,7 +15,7 @@ Prerequisites:
 
 ![Construct](static/img/alpha/construct.jpg)
 
-3. Select the buildings tab (or type W).
+3. Select the buildings tab (or type W)
 
 ![Buildings tab](static/img/alpha/buildings-tab.jpg)
 
@@ -39,9 +38,8 @@ Prerequisites:
 
 ## Train Defensive Armies
 
-:::note
-The first army you muster will automatically be your defence and can't travel/raid. Any additional armies summoned will for travel and raiding.
-:::
+**_Note: The first army you muster will automatically be your defensive army and can't travel/raid. Any additional armies summoned will be for travel and raiding.
+_**
 
 1. Head to the ‘Realms’ page (or your Empire)
 
@@ -49,7 +47,7 @@ The first army you muster will automatically be your defence and can't travel/ra
 
 ![Construct](static/img/alpha/construct.jpg)
 
-3. Select the 'Defense' tab (or type E).
+3. Select the 'Defense' tab (or type E)
 
 ![Buildings tab](static/img/alpha/military-tab.jpg)
 
@@ -92,4 +90,3 @@ The first army you muster will automatically be your defence and can't travel/ra
 7. Navigate to your tx cart, sign the tx and approve it in your StarkNet wallet
 
 8. Repeat steps 1-7 to summon an attacking army that can travel and raid
-
