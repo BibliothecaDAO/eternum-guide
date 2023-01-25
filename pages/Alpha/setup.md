@@ -69,8 +69,6 @@
 
 **_To begin playing you must first settle (stake) your Realm(s) into the game contracts._**
 
-![amm_lp2](static/img/alpha/amm_lp2.png)
-
 1. Go to the 'Empire' screen and select 'Get Started'
 
 ![Get started](static/img/alpha/get-started.jpg)
