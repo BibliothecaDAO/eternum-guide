@@ -1,5 +1,0 @@
-# Strategies
-
-### Farmer
-### Trader
-### Raider
