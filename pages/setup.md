@@ -1,11 +1,11 @@
 # Setup
 
-1. [StarkNet Wallet](./setup#StarkNet-Wallet)
-2. [Goerli Test ETH](./setup#Goerli-Test-ETH)
-3. [Game Navigation](./setup#Game-Navigation)
-4. [Mint & Settle Your Realm(s)](./setup#Mint-&-Settle-Your-Realm(s))
+1. [StarkNet Wallet](#StarkNet-Wallet)
+2. [Goerli Test ETH](#Goerli-Test ETH)
+3. [Game Navigation](#Game-Navigation)
+4. [Mint & Settle Your Realm(s)](#Mint-&-Settle-Your-Realm(s))
 
-## StarkNet Wallet
+## StarkNet Wallet {#StarkNet-Wallet}
 
 **_Players will need an L2 StarkNet wallet to play the game - either Argent X or Braavos._**
 
@@ -35,7 +35,7 @@
 ![deploy Braavos Tesnet wallet](static/img/alpha/braavos-3.png)
 
 
-## Goerli Test ETH
+## Goerli Test ETH {#Goerli-Test-ETH}
 
 **_Players will need StarkNet Goerli testnet ETH (free) to interact with the contracts in Realms: Eternum. Each test realm in the Alpha costs 0.01 Goerli ETH to mint._**
 
@@ -47,8 +47,52 @@
 
 ![Goerli address](static/img/alpha/address.jpg)
 
+*If you have experience bridging assets and are comfortable doing so (changing from mainnet to testnet and back) you can also use the following method to acquire more Goerli ETH. This guide assumes you are using a MetaMask wallet.*
 
-## Game Navigation
+1. Go to https://goerlifaucet.com/ and click signup for free
+
+![bridging-goerli-faucet](static/img/alpha/bridging-goerli-faucet.png)
+
+2. Use an email to sign up
+
+![bridging-goerli-signup](static/img/alpha/bridging-goerli-signup.png)
+
+3. Copy paste your Ethereum wallet address into the text bar (If you used MetaMask to create your wallet your mainnet address is the same as your goerli address) and click 'Send Me ETH'
+
+![bridging-goerli-address](static/img/alpha/bridging-goerli-address.png)
+
+4. Success. You will have 0.2 Goerli ETH in your wallet shortly.
+
+![bridging-goerli-address](static/img/alpha/bridging-goerli-address.png)
+
+4. If you see any errors it most likely means you have already requested Goerli at this faucet within the previous 24 hours. Sometimes you can see a 503 or 504 erorr which can mean the network is slammed - try again later.
+
+![bridging-goerli-errors](static/img/alpha/bridging-goerli-errors.png)
+
+`This next step will involve changing your network, be aware when using different networks as dApps will not always protect you with warnings and errors if you are attempting to use them on an incorrect network.`
+
+1. Go to https://goerli.starkgate.starknet.io/
+
+![bridging-goerli-starknet](static/img/alpha/bridging-goerli-starknet.png)
+
+2. Click on your MetaMask wallet and your Braavos or Argent X wallet and switch to Goerli / Testnet.
+
+![bridging-metamask-goerli](static/img/alpha/bridging-metamask-goerli.png) ![bridging-braavos-goerli](static/img/alpha/bridging-braavos-goerli.png) ![bridging-argent-x-goerli](static/img/alpha/bridging-argent-x-goerli.png)
+
+3. On the StarkNet bridge website connect your MetaMask and StarkNet wallet at the top right, make sure 'Deposit' is selected, write the amount you want to bridge (a little less than 0.2 to account for gas fees if that is all you have) and click the 'Transfer' button.
+
+[bridging-goerli-starknet-connect](static/img/alpha/bridging-goerli-starknet-connect.png)
+
+4. A MetaMask confirmation window should pop up. If not, click the MetaMask icon yourself and then press confirm.
+
+[bridging-goerli-confirm](static/img/alpha/bridging-goerli-confirm.png)
+
+5. Wait for the funds to transfer. It normally happens within minutes but could possibly take longer.
+
+`Remember to make sure you are aware of when you are on Goerli and when you are on Mainnet.`
+
+
+## Game Navigation {#Game-Navigation}
 
 ![setup map](static/img/alpha/setup_map.png)
 
@@ -65,7 +109,7 @@
 11. Transaction Cart: Queued transactions for approval, TX status
 
 
-## Mint & Settle Your Realm(s)
+## Mint & Settle Your Realm(s) {#Mint-&-Settle-Your-Realm(s)}
 
 **_To begin playing you must first settle (stake) your Realm(s) into the game contracts._**
 
