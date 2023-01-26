@@ -4,12 +4,6 @@
     "type": "separator"
   },
   "setup": "Setup",
-  "amm" : "Resource Emporium AMM",
-  "farms" : "Farms & Fishing Villages",
-  "resources" : "Resources & $LORDS",
-  "armies" : "Armies",
-  "raiding" : "Raiding",
-  "strategies" : "Strategies",
   "dao": {
     "title": "DAO",
     "type": "menu",

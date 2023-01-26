@@ -18,6 +18,7 @@ Tools and Labor can be be purchased and harvested directly in the My Empire -> Q
 
 1. Click 'Realms' in the menu, then select the 'My Realms' tab to see your settled realms. Click 'Construct' on one of your realms.
 
+
 ![Realms](static/img/alpha/resources1.png)
 
 2. On your realm screen, click the 'Farm (T)' tab to bring up the resources and food your realm can produce.
@@ -41,7 +42,7 @@ Production is now underway and you can watch the percentage tick up in the 'Gene
 
 1. Look at the 'Generated' column. When production of a unit of resource production is complete it can be harvested (added to your wallet) by clicking the 'Harvest' button. Do this for every resource you wish to harvest, then navigate to your Transaction Cart and sign.
 
-![Realms](static/img/alpha/resources4.png)
+
 
 The resources will appear in your wallet shortly. You can quickly view your resources by hovering over your $LORDS balance.
 
