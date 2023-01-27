@@ -1,11 +1,5 @@
 # Resource Emporium (AMM)
 
-1. [Selling on the AMM](./amm#Selling-on-the-AMM)
-2. [Buying on the AMM](./amm#Buying-on-the-AMM)
-3. [Adding Liquidity to the AMM](./amm#Adding-Liquidity-to-the-AMM)
-4. [Removing Liquidity from the AMM](./amm#Removing-Liquidity-from-the-AMM)
-
-
 Click the 'Bank' button in the menu on the left side of the screen. A new screen appears with the resource markets shown in the right panel, and your orders on the left. Notice the 'Swap' button is highlighted indicating you want to trade resources, and the toggle switch is set to Sell indicating you want to sell your resources for $LORDS.
 
 Resource markets in the left panel are ordered from the most commonly occuring to the least. Below each resource is the quantity of the resource that you own. Next to it is the price for one unit of the resource in $LORDS, and the 24hr change in price. A small 7-day chart shows if the resource is trending up or down in price.
