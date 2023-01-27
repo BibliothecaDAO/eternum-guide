@@ -4,12 +4,11 @@
 2. [Production](./resources#Production)
 3. [Harvesting](./resources#Harvesting)
 4. [Storehouses](./resources#Storehouses)
-5. [Goblin Camps (TBD)](./resources#Goblin-Camps-(TBD))
 
 
 ## Tools & Labor
 
-Each realm can produce resources, wheat and fish. Production of resources requires tools & labor, based on a system called [Proof of Labor](https://medium.com/@bibliothecaDAO/introducing-proof-of-labor-to-realms-eternum-774cc1a86bc). Tools and labor can be purchased in 2hr increments, although currently the UI produces in 12hr increments. This means that when you purchase tools and labor to produce a resource, production will begin immediately and continue for 12hrs. After that production halts.
+Each realm can produce resources, wheat and fish. Production of resources requires tools & labor, based on a system called [Proof of Labor](https://medium.com/@bibliothecaDAO/introducing-proof-of-labor-to-realms-eternum-774cc1a86bc). Tools and labor can be purchased in 2hr increments. This means that when you purchase 1 unit of tools and labor to produce a resource, production will begin immediately and continue for 2hrs. After that production halts. If you want to produce for 24hrs, you would purchase 12 units of tools and labor.
 
 Tools and Labor can be be purchased and harvested directly in the My Empire -> Quick Actions tab, but for this example we will navigate to the realm page itself.
 
@@ -31,7 +30,9 @@ The 'Resource' column shows the quantity of the resource you already have. The '
 
 Finally, each time you harvest a resource a small portion is deposited in a vault, shown in the 'Vault' column. If any enemy army successfully raids your realm, they will receive some of your vault resources as a reward. If you fill the vault completely, you can harvest those resources as a bonus!
 
-3. To begin production, click the 'Buy Tools (12hrs)' button. You can click this multiple times to queue up 12hr periods of labor. For example to produce for 24hrs click the button twice. Notice the cost for tools and labor is automatically added to the Transaction Cart. If you do not have enough resources, you can click 'Reconcile Deficits' which will take you to the AMM where needed resources are populated for you to buy. When you are ready to purchase the tools and labor, click 'Sign For 1 Command' and approve in your wallet.
+3. To begin production, click the 'Buy Tools' button. You can click this multiple times to queue up units of labor. 
+
+Notice the cost for tools and labor is automatically added to the Transaction Cart. If you do not have enough resources, you can click 'Reconcile Deficits' which will take you to the AMM where needed resources are populated for you to buy. When you are ready to purchase the tools and labor, click 'Sign For 1 Command' and approve in your wallet.
 
 ![Realms](static/img/alpha/resources3.png)
 
@@ -42,7 +43,7 @@ Production is now underway and you can watch the percentage tick up in the 'Gene
 
 1. Look at the 'Generated' column. When production of a unit of resource production is complete it can be harvested (added to your wallet) by clicking the 'Harvest' button. Do this for every resource you wish to harvest, then navigate to your Transaction Cart and sign.
 
-
+![Realms](static/img/alpha/resources4.png)
 
 The resources will appear in your wallet shortly. You can quickly view your resources by hovering over your $LORDS balance.
 
@@ -55,15 +56,10 @@ Your realms consumes food every second. This can be viewed on 'Home (Q)' tab of 
 
 ![Realms](static/img/alpha/resources6.png)
 
-1. On the 'Farms (T)' tab, scroll down to the Storehouse.
+1. On the 'Home (Q)' tab, scroll down to the Storehouse.
 
 2. Enter the quantity of Wheat or Fish you want to store on this realm, then click 'Store'. If the Storehouse already has 1000 food stored and you add another 1000, the total stored will be 2000. Storing food adds to the amount already in the Storehouse, and food cannot be withdrawn from the Storehouse once added.
 
 ![Realms](static/img/alpha/resources7.png)
 
 3. Nagivate to your Transaction Cart and sign the transaction to store the food.
-
-
-## Goblin Camps (TBD)
-
-Goblin camps are a mechanic that may or may not be added in the future. They would spawn on your realm and provide you with the opportunity to raid them for resources.
