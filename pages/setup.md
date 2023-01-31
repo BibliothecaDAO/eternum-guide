@@ -2,7 +2,7 @@
 
 Follow these steps to setup a StarkNet wallet and acquire Goerli testnet ETH.
 
-## StarkNet Wallet {#StarkNet-Wallet}
+## StarkNet Wallet 
 
 **_Players will need an L2 StarkNet wallet to play the game - either Argent X or Braavos._**
 
@@ -36,7 +36,7 @@ Make sure your wallet is set to Goerli testnet when deploying your account.
 ![deploy Braavos Tesnet wallet](static/img/alpha/braavos-3.png)
 
 
-## Goerli Test ETH {#Goerli-Test-ETH}
+## Goerli Test ETH
 
 **_Players will need StarkNet Goerli testnet ETH (free) to interact with the contracts in Realms: Eternum. Each test realm in the Alpha costs 0.01 Goerli ETH to mint._**
 
