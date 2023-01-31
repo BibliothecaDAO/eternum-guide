@@ -4,6 +4,11 @@
     "type": "separator"
   },
   "setup": "Setup",
+  "amm": "Resource Emporium AMM",
+  "resources": "Resources",
+  "armies": "Armies",
+  "raiding": "Raiding",
+  "strategies": "Strategies",
   "dao": {
     "title": "DAO",
     "type": "menu",
