@@ -4,7 +4,9 @@ There are two types of armies in Eternum: defensive and offensive.
 
 You can create at most 1 defensive army per realm. Defensive armies protect your vaults from being raided and increase the happiness of your realm. Keep your happiness high or all of your armies will decrease in effectiveness.
 
-Offensive armies are used to raid enemy realms to capture relics and loot resources. Currently it appears you can make as many offensive armies per realm as you want - however, there will be a cap on this number at some point in the future.
+Offensive armies are used to raid enemy realms to capture relics and loot resources. 
+
+*NOTE: Currently it appears you can make as many offensive armies per realm as you want - however, there will be a cap on this number at some point in the future. Possibly based on the number of regions your Realm has.*
 
 There are 8 different types of battalions in 4 categories you can train to fill your armies with. Each army, defensive and offensive, can have 30 battalions of any type, mixing and matching as you please.
 
@@ -45,7 +47,7 @@ Each battalion has strengths and weaknesses vs the other types of battalions in 
 
 ![armies-buy-resources](static/img/alpha/armies-buy-resources.png)
 
-*Sometimes the 'Reconcile Deficits' button won't work because of miscalculations of resources when they are exchanged - in those instances you can hover your mouse on top of your $lords amount and check for yourself what you're running low on and add a bit extra.*
+*Sometimes the 'Reconcile Deficits' button won't work because of miscalculations of resources when they are exchanged - in those instances you can hover your mouse on top of your $lords amount and check for yourself what you're running low on and add a bit extra. This is an issue that should be fixed in the future.*
 
 ![armies-wallet-resources](static/img/alpha/armies-wallet-resources.png)
 
@@ -84,7 +86,7 @@ Each battalion has strengths and weaknesses vs the other types of battalions in 
 
 ![armies-offensive](static/img/alpha/armies-offensive.png)
 
-4. Click 'Build Army' to replenish battalions in an existing army or 'Summon New Army ID x' to create additional armies
+4. Click 'Build Army' to replenish battalions in an existing army or 'Summon New Army ID #' to create additional armies
 
 ![armies-replenish-new](static/img/alpha/armies-replenish-new.png)
 

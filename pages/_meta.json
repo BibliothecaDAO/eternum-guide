@@ -4,9 +4,10 @@
     "type": "separator"
   },
   "setup": "Setup",
+  "nav": "Game Navigation",
   "mint": "Mint and Settle Realms",
-  "amm": "Resource Emporium AMM",
   "resources": "Resources",
+  "amm": "Resource Emporium AMM",
   "armies": "Armies",
   "raiding": "Raiding",
   "strategies": "Strategies",
