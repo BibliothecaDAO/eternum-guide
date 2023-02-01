@@ -4,6 +4,7 @@
     "type": "separator"
   },
   "setup": "Setup",
+  "mint": "Mint and Settle Realms",
   "amm": "Resource Emporium AMM",
   "resources": "Resources",
   "armies": "Armies",

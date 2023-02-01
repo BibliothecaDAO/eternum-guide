@@ -82,11 +82,11 @@ Make sure your wallet is set to Goerli testnet when deploying your account.
 
 3. On the StarkNet bridge website connect your MetaMask and StarkNet wallet at the top right, make sure 'Deposit' is selected, write the amount you want to bridge (a little less than 0.2 to account for gas fees if that is all you have) and click the 'Transfer' button.
 
-[bridging-goerli-starknet-connect](static/img/alpha/bridging-goerli-starknet-connect.png)
+![bridging-goerli-starknet-connect](static/img/alpha/bridging-goerli-starknet-connect.png)
 
 4. A MetaMask confirmation window should pop up. If not, click the MetaMask icon yourself and then press confirm.
 
-[bridging-goerli-confirm](static/img/alpha/bridging-goerli-confirm.png)
+![bridging-goerli-confirm](static/img/alpha/bridging-goerli-confirm.png)
 
 5. Wait for the funds to transfer. It normally happens within minutes but could possibly take longer.
 

@@ -1,4 +1,4 @@
-## Mint & Settle Your Realm(s) {#Mint-&-Settle-Your-Realm(s)}
+## Mint & Settle Your Realm(s)
 
 **_To begin playing you must first settle (stake) your Realm(s) into the game contracts._**
 
@@ -29,7 +29,7 @@
 **_Note: This initial bonus is a one-time occurrence - if you unsettle and settle again, you will not receive the bonus again._**
 
 
-## Game Navigation {#Game-Navigation}
+## Game Navigation
 
 ![setup map](static/img/alpha/setup_map.png)
 

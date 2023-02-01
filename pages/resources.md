@@ -1,11 +1,5 @@
 # Resources and Food
 
-1. [Tools & Labor](./resources#Tools-&-Labor)
-2. [Production](./resources#Production)
-3. [Harvesting](./resources#Harvesting)
-4. [Storehouses](./resources#Storehouses)
-
-
 ## Tools & Labor
 
 Each realm can produce resources, wheat and fish. Production of resources requires tools & labor, based on a system called [Proof of Labor](https://medium.com/@bibliothecaDAO/introducing-proof-of-labor-to-realms-eternum-774cc1a86bc). Tools and labor can be purchased in 2hr increments. This means that when you purchase 1 unit of tools and labor to produce a resource, production will begin immediately and continue for 2hrs. After that production halts. If you want to produce for 24hrs, you would purchase 12 units of tools and labor.
