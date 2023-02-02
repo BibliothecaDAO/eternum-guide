@@ -4,7 +4,7 @@ Follow these steps to setup a StarkNet wallet and acquire Goerli testnet ETH.
 
 ## StarkNet Wallet 
 
-**_Players will need an L2 StarkNet wallet to play the game - either Argent X or Braavos._**
+**_Players will need a Layer 2 (L2) StarkNet wallet to play the game - either Argent X or Braavos._**
 
 #### Argent X
 
@@ -64,7 +64,7 @@ Make sure your wallet is set to Goerli testnet when deploying your account.
 
 4. Success. You will have 0.2 Goerli ETH in your wallet shortly.
 
-![bridging-goerli-address](static/img/alpha/bridging-goerli-address.png)
+![bridging-goerli-address](static/img/alpha/bridging-goerli-success.png)
 
 4. If you see any errors it most likely means you have already requested Goerli at this faucet within the previous 24 hours. Sometimes you can see a 503 or 504 erorr which can mean the network is slammed - try again later.
 
@@ -82,11 +82,11 @@ Make sure your wallet is set to Goerli testnet when deploying your account.
 
 3. On the StarkNet bridge website connect your MetaMask and StarkNet wallet at the top right, make sure 'Deposit' is selected, write the amount you want to bridge (a little less than 0.2 to account for gas fees if that is all you have) and click the 'Transfer' button.
 
-[bridging-goerli-starknet-connect](static/img/alpha/bridging-goerli-starknet-connect.png)
+![bridging-goerli-starknet-connect](static/img/alpha/bridging-goerli-starknet-connect.png)
 
 4. A MetaMask confirmation window should pop up. If not, click the MetaMask icon yourself and then press confirm.
 
-[bridging-goerli-confirm](static/img/alpha/bridging-goerli-confirm.png)
+![bridging-goerli-confirm](static/img/alpha/bridging-goerli-confirm.png)
 
 5. Wait for the funds to transfer. It normally happens within minutes but could possibly take longer.
 

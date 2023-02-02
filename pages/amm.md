@@ -45,7 +45,7 @@ Liquidity can be added to any market on the AMM. Players deposit resources and $
 
 2. Click the 'LP' button, and set the toggle to 'Add LP'
 
-3. Click ‘Add +’ and select the resource(s) you want to add liquidity to. Enter the quantity of resources you want to deposit. Notice you must deposit the equivilent value in $LORDS when depositing resources. $LORDS quantity is calculated for you in 'Total Lords to Spend,' so ensure you have enough $LORDS to pair with the resources.
+3. Click ‘Add +’ and select the resource(s) you want to add liquidity to. Enter the quantity of resources you want to deposit. Notice you must deposit the equivalent value in $LORDS when depositing resources. $LORDS quantity is calculated for you in 'Total Lords to Spend,' so ensure you have enough $LORDS to pair with the resources.
 
 4. Click 'Add Liquidity'
 

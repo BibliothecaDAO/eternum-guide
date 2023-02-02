@@ -8,9 +8,9 @@
 
 As you are searching for realms to raid you can see 3 useful pieces of information and take 2 actions.
 
-a) Resources in vault.
-b) Defending army strength. (Hover your cursor over the shield icon)
-c) Whether they own their relic (Self Sovereign) or they have already lost it (Annexed)
+###### a) Resources in vault.
+###### b) Defending army strength. (Hover your cursor over the shield icon)
+###### c) Whether they own their relic (Self Sovereign) or they have already lost it (Annexed)
 
 You can also click 'Travel to Raid' which will bring up a menu that allows you to send your armies to that realm or 'Fly' which will center your screen on that realm in the atlas.
 
@@ -30,13 +30,22 @@ There are filters at the top of this realms page to help you sort through the vi
 
 ![raiding-travel-to-raid](static/img/alpha/raiding-travel-to-raid.jpg)
 
-2. On this screen you will see several useful pieces of information. Realm name, army relative strength (Weak, Strong, V. Strong), army exact strength if you hover your mouse over the shield and the length of time it takes for your army to travel to the selected realm. Pick your army that best matches up against the enemy army and click 'Travel'. This will queue a tx in the cart which you can sign to put your army in motion. You can also choose to send multiple armies to the destination realm at once. Click 'Travel' for all armies you want to send and then sign one signature for the batch of txs.
+2. On this screen you will see several useful pieces of information: 
+
+1) Realm name
+2) Army relative strength (Weak, Strong, V. Strong)
+3) Army exact strength (if you hover your mouse over the shield icon)
+4) The length of time it takes for your army to travel to the selected realm
+
+ Pick your army that best matches up against the enemy army and click 'Travel'. This will queue a tx in the cart which you can sign to put your army in motion. You can also choose to send multiple armies to the destination realm at once. Click 'Travel' for all armies you want to send and then sign one signature for the batch of txs.
 
 ![raiding-travel-army](static/img/alpha/raiding-travel-army.jpg)
 
 #### Raiding
 
-1. When your army arrives at the destination realm you will see a button that says 'Raidable'. This button can depend on factors that may not always be obvious e.g. the realm must have a minimum of 25 resources before it can be raided. These things are bound to change as the game progresses. 
+1. When your army arrives at the destination realm you will see a button that says 'Raidable'. 
+
+*NOTE: This button can depend on factors that may not always be obvious e.g. the realm must be settled, have a minimum of 25 resources before it can be raided etc. These things are bound to change as the game progresses so if you're not able to raid a realm and are not sure why feel free to ask in Discord.*
 
 ![raiding-raidable](static/img/alpha/raiding-raidable.jpg)
 
