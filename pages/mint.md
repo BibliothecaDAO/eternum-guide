@@ -2,6 +2,16 @@
 
 **_To begin playing you must first settle (stake) your Realm(s) into the game contracts._**
 
+1. Click the cog at the top left beside your wallet address
+
+![settings cog](../static/img/eternum/settings-cog.png)
+
+2. Select an order (you can only choose one per wallet) and settle up to 5 Realms (simply click Settle Realm five times)
+
+![select order and mint](../static/img/eternum/mint.png)
+
+
+--
 1. Go to the 'Empire' screen and select 'Get Started'
 
 ![Get started](static/img/alpha/get-started.jpg)

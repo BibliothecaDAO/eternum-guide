@@ -1,5 +1,9 @@
 ## Game Navigation
 
+![navigation](../static/img/eternum/Nav.png)
+
+--
+
 ![setup map](static/img/alpha/setup_map.png)
 
 1. $LORDS Balance: $LORDS is the in-game token, used to buy resources
