@@ -7,10 +7,9 @@
   "nav": "Game Navigation",
   "mint": "Mint and Settle Realms",
   "resources": "Resources",
-  "amm": "Resource Emporium AMM",
-  "armies": "Armies",
-  "raiding": "Raiding",
-  "strategies": "Strategies",
+  "trading": "Trading",
+  "hyperstructures": "Hyperstructures",
+  "worldchat": "World Chat",
   "dao": {
     "title": "DAO",
     "type": "menu",
