@@ -8,9 +8,8 @@
   "mint": "Mint and Settle Realms",
   "resources": "Resources",
   "trading": "Trading",
-  "armies": "Armies",
-  "raiding": "Raiding",
-  "strategies": "Strategies",
+  "hyperstructures": "Hyperstructures",
+  "worldchat": "World Chat",
   "dao": {
     "title": "DAO",
     "type": "menu",
